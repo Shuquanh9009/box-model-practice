@@ -12,10 +12,12 @@
     margin:0 auto;
     margin-top: 30px;
     margin-bottom: 30px;
-    width:600px;
+    width:445px;
     height:100px;
     padding-top: 20px;
     padding-bottom: 10px;
+    padding-right: 80px;
+    padding-left: 80px;
     
 }
 
@@ -26,10 +28,13 @@
     margin:0 auto;
     margin-top: 30px;
     margin-bottom: 30px;
-    width:600px;
+    width:445px;
     height: 40px;
     padding-top:10px;
     padding-bottom: 40px;
+    padding-right: 80px;
+    padding-left: 80px;
+    
 }
 
 .topic {
